@@ -1,0 +1,49 @@
+
+body {
+    background-image: url('https://www.emeraldgrouppublishing.com/sites/default/files/image/covid-cells.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.head1{
+    background-color:aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+.container{
+    background-color: azure;
+}
+
+.heading{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+span{
+    color:blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.head2{
+    color: red;
+}
+.head3{
+    background-color: cornsilk;
+}
+
+button{
+   box-shadow: 20px;
+   border-radius: 30px;
+   position:relative;
+   top:15px;
+   
+
+}
